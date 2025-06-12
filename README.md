@@ -131,5 +131,5 @@ Future Enhancements
  Color accessibility scoring
  Batch image processing
  Mobile app version
-Made with ❤️ by [Your Name]
+Made with ❤️ by Xyden
 
